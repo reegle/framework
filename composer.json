@@ -1,7 +1,8 @@
 {
   "name": "reegle/framework",
+  "version":"2.0.0",
   "description": "php framework",
-  "type": "project",
+  "type": "library",
   "keywords": [
     "reephp"
   ],
