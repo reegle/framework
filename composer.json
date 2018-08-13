@@ -1,5 +1,5 @@
 {
-  "name": "reegle/reephp",
+  "name": "reegle/framework",
   "description": "php framework",
   "type": "project",
   "keywords": [
@@ -26,7 +26,6 @@
   "repositories": {
     "packagist": {
       "type": "composer"
-
     }
   }
 }
